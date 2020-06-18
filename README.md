@@ -4,7 +4,7 @@ A Quasar Framework app
 
 ## GitHub Pages The Site Is Published At 
 ```bash
-[查看https://237005722.github.io/edusocialin-quasar-demo/index.html](https://237005722.github.io/edusocialin-quasar-demo/index.html "查看demo")
+[查看https://237005722.github.io/edusocialin-quasar-demo/index.html](https://237005722.github.io/edusocialin-quasar-demo/index.html)
 ```
 
 ## Install the dependencies
